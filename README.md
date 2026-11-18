@@ -2,7 +2,7 @@
 
 Engineering student based in **Cluj-Napoca, Romania**, interested in **control systems, computer vision and machine learning**.
 
-I like building things end to end: from modelling a dynamic system in MATLAB/Simulink to training a neural network from scratch in PyTorch.
+I like building things end to end: from modelling a dynamic system in MATLAB/Simulink to training and deploying computer-vision models in PyTorch.
 
 ### 🔭 Projects
 
